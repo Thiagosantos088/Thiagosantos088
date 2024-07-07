@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**Thiagosantos088/Thiagosantos088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá meu nome é Thiago !
 
 Here are some ideas to get you started:
 
