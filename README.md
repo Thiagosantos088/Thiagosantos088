@@ -15,4 +15,3 @@
   <img align="center" alt="Thiago-NodeJS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 </div>
 
-![GitHub Snake](https://github.com/Thiagosantos088/Thiagosantos088/blob/output/github-contribution-grid-snake.svg)
