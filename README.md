@@ -1,4 +1,4 @@
-## Olá meu nome é Thiago 🖐🏽!
+## Olá meu nome é Thiago 🖐🏽
 
 
 <div style="display: inline_block"><br>
